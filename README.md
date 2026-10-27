@@ -1,5 +1,9 @@
 # servicescan
 
+<p align="center">
+  <img src=".github/logo.png" alt="servicescan logo" width="128" />
+</p>
+
 A small C++ program that scans lab subnets in parallel by running a PHP worker
 script for each IP address, to get around PHP's lack of threads.
 
